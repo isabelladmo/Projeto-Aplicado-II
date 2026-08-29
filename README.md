@@ -45,5 +45,7 @@ Objetivos do Projeto
 9. Gerar insights que possam contribuir para estratégias comerciais e tomada de decisões
 10. Documentar e disponibilizar o desenvolvimento do projeto no GitHub
 
-Etapas do Projeto
+Etapas do Projeto:
+
+[Primeira Etapa - Projeto Aplicado II.pdf](https://github.com/user-attachments/files/31579659/Primeira.Etapa.-.Projeto.Aplicado.II.pdf)
 
