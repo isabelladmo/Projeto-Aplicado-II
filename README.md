@@ -48,6 +48,5 @@ Objetivos do Projeto
 Etapas do Projeto:
 
 [Primeira Etapa - Projeto Aplicado II.pdf](https://github.com/user-attachments/files/31579659/Primeira.Etapa.-.Projeto.Aplicado.II.pdf)
-[Projeto.pdf](https://github.com/user-attachments/files/32675724/Projeto.pdf)
 
-
+[Segunda Etapa - Projeto Aplicado II.pdf](https://github.com/user-attachments/files/32675725/Segunda.Etapa.-.Projeto.Aplicado.II.pdf)
