@@ -22,10 +22,8 @@ O conjunto de dados contém transações realizadas por uma empresa de varejo el
 
 A base possui informações relacionadas a:
 
-Faturas e transações;
-
-Produtos;
-
+Faturas e transações;/
+Produtos;/
 Quantidades comercializadas;
 
 Preços;
