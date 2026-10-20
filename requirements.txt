@@ -1,0 +1,15 @@
+﻿# Manipulação e análise de dados
+pandas
+
+# Operações numéricas
+numpy
+
+# Visualização de dados
+matplotlib
+seaborn
+
+# Aprendizado de máquina e avaliação dos agrupamentos
+scikit-learn
+
+# Leitura de arquivos Excel
+openpyxl
