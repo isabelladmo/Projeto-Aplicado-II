@@ -96,3 +96,8 @@ Etapas do Projeto:
 [Segunda Etapa - Projeto Aplicado II.pdf](https://github.com/user-attachments/files/32675725/Segunda.Etapa.-.Projeto.Aplicado.II.pdf)
 
 [Terceira Etapa - Projeto Aplicado II.pdf](https://github.com/user-attachments/files/33994902/Terceira.Etapa.-.Projeto.Aplicado.II.pdf)
+
+[Quarta Etapa - Projeto Aplicado II.pdf](https://github.com/user-attachments/files/35309175/Quarta.Etapa.-.Projeto.Aplicado.II.pdf)
+
+Vídeo Apresentação YouTube: https://youtu.be/Rwf5RBboPvg?si=8nUopsENi0f0ZEad
+
